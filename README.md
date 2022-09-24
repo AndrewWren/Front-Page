@@ -5,7 +5,7 @@
 
 #### MSc Thesis: *Learning directed acyclic graphs by backpropagation*
 
-Developed a framework for learning directed acyclic graphs via discrete backpropagation, testing it on synthetic and real data.
+Developed a framework for learning directed acyclic graphs via discrete backpropagation, testing it on synthetic and real data, with competitive results which proved the concept.
 
 I learnt about discrete backpropagation techniques and about combinatoric & continous DAG-finding algorithms. I also learnt about defining and organising a project of this nature and scale in a short time period.
 
