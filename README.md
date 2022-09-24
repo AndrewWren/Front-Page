@@ -7,6 +7,6 @@
 
 Developed a framework for learning directed acyclic graphs via discrete backpropagation, testing it on synthetic and real data.
 
-[Thesis repo](https://github.com/DAG-DB/DAG-DB)
+&nbsp;&nbsp;&nbsp;&nbsp;[Thesis repo](https://github.com/DAG-DB/DAG-DB)
 
-[Submitted NeurIPS&nbsp;2022 workshop paper](TODO)
+&nbsp;&nbsp;&nbsp;&nbsp;[Submitted NeurIPS&nbsp;2022 workshop paper](TODO)
