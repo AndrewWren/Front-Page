@@ -25,7 +25,7 @@ I learnt about working in a team of peers, working together to steer and develop
 
 #### NLearn
 
-Used Reinforcement Learning to get two agents to “invent” a language to communicate a very simple numerical message successfully.  I then developed NLearnMulti, which sought to do the same with many agents talking over each other on a graph – and found it was much harder to get agents to clearly understand messages in that context.
+Developed two reinforcement learning agents who “invent” a language to communicate a varying random message successfully.  Agent “Alice” had to ceeate a binary code language, and Agent “Bob” had to learn to understand it.  They did so without any outside help, using only knowledge of how close Bob’s guess was in each step of the game.
 
 I learnt how to define and optimise a multi-agent reinforcement learning, and how to manage multiple experiments.
 
