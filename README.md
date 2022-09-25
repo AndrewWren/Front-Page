@@ -27,7 +27,7 @@ I learnt about working in a team of peers, working together to steer and develop
 
 Developed two reinforcement learning agents who “invent” a language to communicate a varying random message successfully.  Agent “Alice” had to ceeate a binary code language, and Agent “Bob” had to learn to understand it.  They did so without any outside help, using only knowledge of how close Bob’s guess was in each step of the game.
 
-I learnt how to define and optimise a multi-agent reinforcement learning, and how to manage multiple experiments.
+I learnt how to define and optimise a multi-agent reinforcement learning challenge, and how to manage multiple experiments.
 
 &nbsp;&nbsp;&nbsp;&nbsp;[NLearn repo](https://github.com/AndrewWren/NLearn)
 
