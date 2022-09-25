@@ -13,7 +13,7 @@ I learnt about discrete backpropagation techniques and about combinatoric & cont
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Submitted NeurIPS&nbsp;2022 workshop paper  TODO]()
 
-#### MSc Statistical Natural Language Processing group project: *Learning from clue structure to solve cryptic crosswords.*
+#### MSc Statistical Natural Language Processing group project: *Learning from clue structure to solve cryptic crosswords*
 
 Originated and coded structural ideas we used for our solver.  This enabled us to get very close to state-of-the-art mid-size transformer performance – with only a relatively small dataset.  Outstanding Distinction.
 
