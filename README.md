@@ -11,7 +11,7 @@ I learnt about discrete backpropagation techniques and about combinatoric & cont
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Thesis repo](https://github.com/DAG-DB/DAG-DB)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Submitted NeurIPS&nbsp;2022 workshop paper  TODO]()
+&nbsp;&nbsp;&nbsp;&nbsp;[Submitted NeurIPS&nbsp;2022 workshop paper. Linked soon]()
 
 #### MSc Statistical Natural Language Processing group project: *Learning from clue structure to solve cryptic crosswords*
 
@@ -19,7 +19,7 @@ Originated and coded structural ideas we used for our solver.  This enabled us t
 
 I learnt about working in a team of peers, working together to steer and develop a project on a very short timescale.  I also learnt about cryptic crosswords and how they are structured.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Link TODO]()
+&nbsp;&nbsp;&nbsp;&nbsp;[Linked soon]()
 
 ### Personal projects:
 
