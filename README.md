@@ -19,7 +19,7 @@ Originated and coded structural ideas we used for our solver.  This enabled us t
 
 I learnt about working in a team of peers, working together to steer and develop a project on a very short timescale.  I also learnt about cryptic crosswords and how they are structured.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Linked soon]()
+&nbsp;&nbsp;&nbsp;&nbsp;[Group Project repo](https://gitlab.com/jesus.solano/ucl-nlp-coursework)
 
 ### Personal projects:
 
