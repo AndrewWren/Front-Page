@@ -5,10 +5,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[gen-text-and-image](https://github.com/AndrewWren/gen-text-and-image)
 
-I used a transformer text generator, trained with an appropriate prompt, to generate a very short piece of text. This is fed to a stable diffusion image generator to generate a corresponding image.
-
 Start >>>>>>> **Portrait of the actress Marlene Dietrich** >>>>>>>
 <img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Portrait_of_the_actress_Marlene_Dietrich.jpg?raw=true" width="60">
+
+I used a transformer text generator, trained with an appropriate prompt, to generate a very short piece of text. This is fed to a stable diffusion image generator to generate a corresponding image.
 
 ### UCL MSc Machine Learning 2021-22 
 
