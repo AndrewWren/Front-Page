@@ -1,6 +1,15 @@
 # Front-Page
 ## Summary of my key ML projects, with links
 
+### `Taster' personal project
+
+&nbsp;&nbsp;&nbsp;&nbsp;[gen-text-and-image](https://github.com/AndrewWren/gen-text-and-image)
+
+I used a transformer text generator, trained with an appropriate prompt, to generate a very short piece of text. This is fed to a stable diffusion image generator to generate a corresponding image.
+
+Start >>>>>>> **Portrait of the actress Marlene Dietrich** >>>>>>>
+<img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Portrait_of_the_actress_Marlene_Dietrich.jpg?raw=true" width="30">
+
 ### UCL MSc Machine Learning 2021-22 
 
 #### MSc Thesis: *Learning directed acyclic graphs by backpropagation*
@@ -21,7 +30,7 @@ I learnt about working in a team of peers, working together to steer and develop
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Group Project repo](https://gitlab.com/jesus.solano/ucl-nlp-coursework)
 
-### Personal projects:
+### Personal projects
 
 #### NLearn
 
