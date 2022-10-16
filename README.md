@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[gen-text-and-image](https://github.com/AndrewWren/gen-text-and-image)
 
 <table><tr><td valign="center">
-START <td> -gen-> <td> 'Portrait of the actress Marlene Dietrich' <td> -gen-> <td> 
+PROMPT <td> -gen-> <td> 'Portrait of the actress Marlene Dietrich' <td> -gen-> <td> 
 <img src="https://github.com/AndrewWren/gen-text-and-image/blob/main/examples/Good/Portrait_of_the_actress_Marlene_Dietrich.jpg?raw=true" width="60"></tr></table>
 
 I used a transformer text generator, trained with an appropriate prompt, to generate a very short piece of text. This is fed to a stable diffusion image generator to generate a corresponding image.
