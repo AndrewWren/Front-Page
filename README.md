@@ -21,7 +21,7 @@ I learnt about discrete backpropagation techniques and about combinatoric & cont
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Thesis repo](https://github.com/DAG-DB/DAG-DB)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Submitted NeurIPS&nbsp;2022 workshop paper. Linked soon]()
+&nbsp;&nbsp;&nbsp;&nbsp;[Accepted as NeurIPS&nbsp;2022 workshop paper. Linked soon]()
 
 #### MSc Statistical Natural Language Processing group project: *Learning from clue structure to solve cryptic crosswords*
 
