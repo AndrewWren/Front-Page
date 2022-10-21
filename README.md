@@ -13,7 +13,7 @@ I used a transformer text generator, trained with an appropriate prompt, to gene
 
 ### UCL MSc Machine Learning 2021-22 
 
-#### MSc Thesis: *Learning directed acyclic graphs by backpropagation*
+#### MSc Thesis and NeurIPS&nbsp;Workshop paper: *Learning directed acyclic graphs by backpropagation*
 
 Developed a framework for learning directed acyclic graphs via discrete backpropagation, testing it on synthetic and real data, with competitive results which proved the concept.
 
