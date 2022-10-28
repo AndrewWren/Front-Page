@@ -19,9 +19,11 @@ Developed a framework for learning directed acyclic graphs via discrete backprop
 
 I learnt about discrete backpropagation techniques and about combinatoric & continuous DAG-finding algorithms. I also learnt about defining and organising a project of this nature and scale in a short time period.
 
+&nbsp;&nbsp;&nbsp;&nbsp;[arXiv thesis paper](https://arxiv.org/abs/2210.15353)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[Thesis repo](https://github.com/DAG-DB/DAG-DB)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Accepted as NeurIPS&nbsp;2022 workshop paper. Linked soon]()
+Accepted as contributed talk at NeurIPS&nbsp;2022 workshop.
 
 #### MSc Statistical Natural Language Processing group project: *Learning from clue structure to solve cryptic crosswords*
 
