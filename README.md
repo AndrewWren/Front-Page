@@ -1,7 +1,7 @@
 # Front-Page
 ## Summary of my key ML projects, with links
 
-### `Taster' personal project
+### 'Taster' personal project
 
 &nbsp;&nbsp;&nbsp;&nbsp;[gen-text-and-image](https://github.com/AndrewWren/gen-text-and-image)
 
