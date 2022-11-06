@@ -15,7 +15,7 @@ I used a transformer text generator, trained with an appropriate prompt, to gene
 
 #### MSc Thesis and NeurIPS&nbsp;2022 Workshop paper: *Learning directed acyclic graphs by backpropagation*
 
-Developed a framework for learning directed acyclic graphs via discrete backpropagation, testing it on synthetic and real data, with competitive results which proved the concept.
+Developed a framework for learning directed acyclic graphs (DAGs) via discrete backpropagation, testing it on synthetic and real data, with competitive results which proved the concept.
 
 I learnt about discrete backpropagation techniques and about combinatoric & continuous DAG-finding algorithms. I also learnt about defining and organising a project of this nature and scale in a short time period.
 
